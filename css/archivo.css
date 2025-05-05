@@ -24,9 +24,10 @@ h2{
     color: aliceblue;
 }
 table{
-    margin: 0;
+    margin: auto;
 
 }
+table tr td img:hover{background:rgb(196, 174, 7);}
 th{
     color: aliceblue;
 }
@@ -143,4 +144,11 @@ footer{
 .horario{
     text-align: center;
     color: aliceblue;
+}
+.o{
+height: 100%;
+width: 100%;
+}
+.pe{
+    font-size: 40px;
 }
