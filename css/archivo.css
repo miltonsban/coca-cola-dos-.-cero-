@@ -14,10 +14,11 @@ a{
 }
 h1{
     color: aliceblue;
-    text-align: left;
+    text-align: center;
 }
 p{
     color: aliceblue;
+    text-align: center;
 }
 h2{
     color: aliceblue;
@@ -39,7 +40,7 @@ td{
 }
 
 body{
-   background-image: url(../img/verde.avif);
+   background-image: url(../img/fondounod.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -125,4 +126,9 @@ button{
         font-size: 1.6rem;
     }
 }
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
 }
