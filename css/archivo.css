@@ -132,3 +132,15 @@ footer{
     color: aliceblue;
     text-align: center;
 }
+.pizzas{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.horario{
+    text-align: center;
+    color: aliceblue;
+}
