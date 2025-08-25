@@ -79,7 +79,7 @@ nav ul li:hover{background: #ff5722; }
 ul{
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 10vh;
 }
 a{
     padding: 0;
