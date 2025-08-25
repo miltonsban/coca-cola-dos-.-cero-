@@ -123,7 +123,7 @@ button{
 @media (max-width: 500px){
     .desplegable{
         width: 100%;
-        height: 100vh;
+        height: 10vh;
         font-size: 1.6rem;
     }
 }
